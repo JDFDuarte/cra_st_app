@@ -37,3 +37,6 @@ with col2:
     st.header('Challenge - Yoghurt Use Case')
 
 
+ # ________________________________________________________________________________________
+
+# aha_lakt_classic = pd.read_csv(r".\ca_training_data_hs23\aha_jogh_lakt_classic.csv")
