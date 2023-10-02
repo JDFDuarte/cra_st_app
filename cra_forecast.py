@@ -6,7 +6,7 @@ import numpy as np
 from urllib.request import urlopen
 from PIL import Image
 import base64
-from blinker import signal
+# from blinker import signal
 
 
 # ________________________________________________________________________________________
